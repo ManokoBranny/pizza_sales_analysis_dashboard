@@ -37,9 +37,6 @@ The interactive dashboard allows you to explore various dimensions of pizza sale
 <img src="Screenshot 2023-10-19 at 14.28.52.png" alt="Screenshot" width="50%">
 
 
-![Screenshot](Screenshot 2023-10-19 at 14.28.52.png)
-
-
 ## Installation
 
 To set up and explore the Pizza Sales Analysis Dashboard on your own, follow these steps:
