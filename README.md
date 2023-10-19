@@ -43,12 +43,7 @@ To set up and explore the Pizza Sales Analysis Dashboard on your own, follow the
 
 ## Contributing
 
-We welcome contributions and suggestions to enhance this project. Feel free to submit pull requests or report any issues you encounter.
+We welcome contributions and suggestions to enhance this project. Feel free to submit or report any issues you encounter.
 
-## License
-
-This project is open-source and is available under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
 
 Enjoy exploring the world of pizza sales and understanding what makes pizza restaurants thrive! 🍕📈
