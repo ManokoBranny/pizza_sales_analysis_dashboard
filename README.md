@@ -35,7 +35,7 @@ The interactive dashboard allows you to explore various dimensions of pizza sale
 
 ## Screenshot of the findings 
 
-![Screenshot](images/screenshot.png)
+![Screenshot](Screenshot 2023-10-19 at 14.28.52.png)
 
 
 ## Installation
