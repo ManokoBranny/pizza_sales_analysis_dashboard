@@ -33,6 +33,11 @@ Here are some fascinating discoveries:
 
 The interactive dashboard allows you to explore various dimensions of pizza sales data, including quarterly and monthly trends, daily variations, and more. Use the slicers to customize your view and uncover additional insights about pizza sales performance.
 
+## Screenshot of the findings 
+
+![Screenshot](images/screenshot.png)
+
+
 ## Installation
 
 To set up and explore the Pizza Sales Analysis Dashboard on your own, follow these steps:
